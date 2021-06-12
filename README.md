@@ -14,6 +14,6 @@ I am an American Heart Association certified BLS (Basic Life Support) operator, 
 
 My interests include aviation, history, videography, and writing. 
 
-I have been home-schooled my entire life and am completely self-taught. 
+I am home-schooled and am completely self-taught. 
 
 Visit my website for more information or get in touch with me! 
