@@ -1,21 +1,19 @@
-Hi there. My name is Ahmad and I am an 18 year old living in Johannesburg, South Africa. Yes, I do live in Africa, and no, I don't ride elephants while trying to evade lions.
+Hi there!
 
-I have many interests and hobbies, far too many to list here.
+I am a self-taught Python developer. I started learning Python in 2015, and web frameworks such as Django and Flask in 2019. I am currently working as a junior Python developer and aim to grow to a senior back-end or full-stack developer. 
 
-I know C++ and Python, and I'm currently developing apps with web-frameworks like Django and Flask.
+I taught myself front-end web development and know HTML, CSS, and JavaScript as well as front-end frameworks such as Vue.js. 
 
-I am the youngest qualified technician of security products in South Africa. I started working in the security industry in 2015, when I was 13. Prior to that I used to help out in office administration.
+I have also learnt C++ and know the basics of the language. 
 
-I've also dabbled in cybersecurity and digital forensics.
+I am also the youngest certified security products technician in South Africa. I have designed solutions and have installed CCTV systems, alarm systems, electric fencing, and access control systems since the age of 13. 
 
-I've been interested in aviation from a very young age, and am an aviation geek through and through.
+I have worked in office administration and have assisted with various office administration tasks since the age of 10. I have assisted in, and have hands-on knowledge about bookkeeping, marketing, inventory management, import & export, clearing, and business management. 
 
-I've been writing and maintaining different blogs since I was 7. I currently write on my blog as well as on Quora about different topics.
+I am an American Heart Association certified BLS (Basic Life Support) operator, and volunteer on the local ambulance. 
 
-I'm also a tech geek and enjoy reading, writing, and watching YouTube videos about consumer electronics and security technology.
+My interests include aviation, history, videography, and writing. 
 
-I am an EMS volunteer and have an interest in psychology.
+I have been home-schooled my entire life and am completely self-taught. 
 
-I also enjoy videography and horse riding, and often upload GoPro footage of my horse-riding lessons on YouTube.
-
-Visit my [website](https://ahmadmuhammad.co.za)!
+Visit my website for more information or get in touch with me! 
