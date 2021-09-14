@@ -16,4 +16,4 @@ My interests include aviation, history, videography, and writing.
 
 I am home-schooled and am completely self-taught. 
 
-Get in touch with me by following my social media profiles or contact me below!
+Get in touch with me by visiting my website!
