@@ -1,4 +1,4 @@
-I’m a full-stack developer and I’m 2x AWS Certified (Certified Developer & Certified SysOps Administrator). I currently work as a web application developer. I work across a wide variety of domains, and, amongst others, they include:
+I’m a full-stack developer and I’m 3x AWS Certified (Certified Developer, Certified SysOps Administrator, & Certified DevOps Engineer). I currently work as a web application developer. I work across a wide variety of domains, and, amongst others, they include:
 
 - Maintaining and improving our cloud infrastructure; modernizing our application using containerization, CI/CD, and other DevOps practices; ensuring high-availability and scalability; ensuring security practices are met; and improving cost-savings on the cloud.
 - Maintaining and writing new code within our application stack; back-end development in Python using frameworks as well as implementing advanced custom functionality; front-end development in React and other JavaScript frameworks, as well as HTML/CSS; and maintaining PostgreSQL databases.
